@@ -1,0 +1,12 @@
+{
+    "name": "paulo/api-modelo",
+    "description": "Estrutura básica de uma API Rest em PHP.",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
